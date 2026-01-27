@@ -1,1 +1,3 @@
-streamlit run app.py
+
+
+streamlit run py_service\app.py
